@@ -10699,7 +10699,7 @@
           <zone h='98340' id='1' param='vert' removable='false' type='layout-flow' w='98426' x='787' y='830'>
             <zone fixed-size='75' h='7780' id='4' is-fixed='true' paired-zone-id='5' removable='false' type='flipboard-nav' w='98426' x='787' y='830' />
             <zone h='90560' id='5' paired-zone-id='4' removable='false' type='flipboard' w='98426' x='787' y='8610'>
-              <flipboard active-id='3' nav-type='caption' show-nav-arrows='true'>
+              <flipboard active-id='4' nav-type='caption' show-nav-arrows='true'>
                 <story-points>
                   <story-point caption='Maps' captured-sheet='Maps Dash' id='1'>
                     <capturedDeltas>
@@ -10715,7 +10715,7 @@
                     </capturedDeltas>
                   </story-point>
                   <story-point caption='Redaction efforts' captured-sheet='Redaction efforts' id='3'>
-                    <currentDeltas>
+                    <capturedDeltas>
                       <worksheet name='Redaction effort in agreements'>
                         <filter class='categorical' column='[federated.1t6oo9s06hdne21b1lalp0w5g5qx].[Action (Reg)]'>
                           <groupfilter function='level-members' level='[Reg]' user:ui-enumeration='all' user:ui-marker='enumerate' />
@@ -10726,9 +10726,9 @@
                           <groupfilter function='level-members' level='[Reg]' user:ui-enumeration='all' user:ui-marker='enumerate' />
                         </filter>
                       </worksheet>
-                    </currentDeltas>
-                    <capturedDeltas />
+                    </capturedDeltas>
                   </story-point>
+                  <story-point caption='Agreem. typification' captured-sheet='Typification' id='4' />
                 </story-points>
               </flipboard>
             </zone>
@@ -11257,6 +11257,29 @@
       </cards>
       <simple-id uuid='{088379A1-7185-42DE-A367-69E5BD1676E1}' />
     </window>
+    <window class='worksheet' name='Hoja 7'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='31'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{07969238-6959-41A5-B43E-45B73FED3CCA}' />
+    </window>
     <window class='dashboard' name='Maps Dash'>
       <viewpoints>
         <viewpoint name='Main Map'>
@@ -11293,33 +11316,10 @@
       <active id='-1' />
       <simple-id uuid='{384EAA47-03E1-47F7-8CA5-C568572E33BC}' />
     </window>
-    <window class='dashboard' name='Historia 1'>
+    <window class='dashboard' maximized='true' name='Historia 1'>
       <viewpoints />
-      <active id='5' />
+      <active id='-1' />
       <simple-id uuid='{38990F8B-BFB9-4712-A101-4B5CE13DBF8F}' />
-    </window>
-    <window class='worksheet' maximized='true' name='Hoja 7'>
-      <cards>
-        <edge name='left'>
-          <strip size='160'>
-            <card type='pages' />
-            <card type='filters' />
-            <card type='marks' />
-          </strip>
-        </edge>
-        <edge name='top'>
-          <strip size='31'>
-            <card type='columns' />
-          </strip>
-          <strip size='31'>
-            <card type='rows' />
-          </strip>
-          <strip size='31'>
-            <card type='title' />
-          </strip>
-        </edge>
-      </cards>
-      <simple-id uuid='{07969238-6959-41A5-B43E-45B73FED3CCA}' />
     </window>
   </windows>
 </workbook>
