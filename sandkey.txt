@@ -1,0 +1,130 @@
+1st SandKey: Regions > Conflict Type 
+Europe and Eurasia[43]Government
+Europe and Eurasia[5]Territory
+Europe and Eurasia[359]Government/territory
+Europe and Eurasia[0]Inter-group
+Europe and Eurasia[0]Other
+Cross-regional[1]Government
+Cross-regional[19]Territory
+Cross-regional[4]Government/territory
+Cross-regional[10]Inter-group
+Cross-regional[0]Other
+Middle East and North Africa[72]Government
+Middle East and North Africa[10]Territory
+Middle East and North Africa[57]Government/territory
+Middle East and North Africa[108]Inter-group
+Middle East and North Africa[1]Other
+Africa (excl MENA)[284]Government
+Africa (excl MENA)[40]Territory
+Africa (excl MENA)[127]Government/territory
+Africa (excl MENA)[78]Inter-group
+Africa (excl MENA)[0]Other
+Asia and Pacific[90]Government
+Asia and Pacific[19]Territory
+Asia and Pacific[259]Government/territory
+Asia and Pacific[8]Inter-group
+Asia and Pacific[0]Other
+Americas[172]Government
+Americas[14]Territory
+Americas[7]Government/territory
+Americas[2]Inter-group
+Americas[0]Other
+
+
+1st SandKey: Conflict Type > Status 
+Government[618]Multiparty signed/agreed
+Government[42]Unilateral document
+Government[1]Status unclear
+Government[1]Agreement with subsequent status
+Territory[102]Multiparty signed/agreed
+Territory[5]Unilateral document
+Territory[0]Status unclear
+Territory[0]Agreement with subsequent status
+Government/territory[740]Multiparty signed/agreed
+Government/territory[61]Unilateral document
+Government/territory[7]Status unclear
+Government/territory[5]Agreement with subsequent status
+Inter-group[191]Multiparty signed/agreed
+Inter-group[12]Unilateral document
+Inter-group[2]Status unclear
+Inter-group[1]Agreement with subsequent status
+Other[1]Multiparty signed/agreed
+Other[0]Unilateral document
+Other[0]Status unclear
+Other[0]Agreement with subsequent status
+
+
+2nd SandKey: Regions > Agreement Stage 
+Europe and Eurasia[49]SubPar
+Europe and Eurasia[96]Imp
+Europe and Eurasia[134]Pre
+Europe and Eurasia[7]SubComp
+Europe and Eurasia[110]Cea
+Europe and Eurasia[9]Ren
+Europe and Eurasia[2]Oth
+Cross-regional[22]SubPar
+Cross-regional[8]Imp
+Cross-regional[2]Pre
+Cross-regional[2]SubComp
+Cross-regional[0]Cea
+Cross-regional[0]Ren
+Cross-regional[0]Oth
+Middle East and North Africa[55]SubPar
+Middle East and North Africa[30]Imp
+Middle East and North Africa[54]Pre
+Middle East and North Africa[7]SubComp
+Middle East and North Africa[92]Cea
+Middle East and North Africa[4]Ren
+Middle East and North Africa[6]Oth
+Africa (excl MENA)[182]SubPar
+Africa (excl MENA)[105]Imp
+Africa (excl MENA)[84]Pre
+Africa (excl MENA)[65]SubComp
+Africa (excl MENA)[86]Cea
+Africa (excl MENA)[7]Ren
+Africa (excl MENA)[0]Oth
+Asia and Pacific[68]SubPar
+Asia and Pacific[64]Imp
+Asia and Pacific[147]Pre
+Asia and Pacific[12]SubComp
+Asia and Pacific[71]Cea
+Asia and Pacific[13]Ren
+Asia and Pacific[1]Oth
+Americas[59]SubPar
+Americas[22]Imp
+Americas[84]Pre
+Americas[13]SubComp
+Americas[10]Cea
+Americas[7]Ren
+Americas[0]Oth
+
+
+2nd SandKey: Agreement Stage > Agreement/Conflict Type 
+SubPar[288]Intra
+SubPar[54]InterIntra
+SubPar[33]Inter
+SubPar[60]IntraLocal
+Imp[211]Intra
+Imp[90]InterIntra
+Imp[17]Inter
+Imp[7]IntraLocal
+Pre[414]Intra
+Pre[59]InterIntra
+Pre[11]Inter
+Pre[21]IntraLocal
+SubComp[82]Intra
+SubComp[5]InterIntra
+SubComp[7]Inter
+SubComp[12]IntraLocal
+Cea[266]Intra
+Cea[16]InterIntra
+Cea[4]Inter
+Cea[83]IntraLocal
+Ren[32]Intra
+Ren[7]InterIntra
+Ren[0]Inter
+Ren[1]IntraLocal
+Oth[0]Intra
+Oth[3]InterIntra
+Oth[0]Inter
+Oth[6]IntraLocal
